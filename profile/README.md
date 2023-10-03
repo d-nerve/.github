@@ -1,4 +1,4 @@
-## Hi there 👋 This is Digital Nerve Lab.
+## Hi there 👋 This is the Digital Nerve Lab.
 
 ## About Us
 Coming soon
