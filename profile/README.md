@@ -1,5 +1,8 @@
 ## Hi there 👋 This is Digital Nerve Lab.
 
+## About Us
+Coming soon
+
 <!--
 
 **Here are some ideas to get you started:**
